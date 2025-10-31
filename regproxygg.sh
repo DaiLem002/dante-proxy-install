@@ -15,8 +15,8 @@ TOKYO_ZONE="asia-northeast1-b"
 OSAKA_ZONE="asia-northeast2-a"
 PROXY_USER="dailem"
 PROXY_PASS="dailem2002"
-PROXY_PORT="1080"
-FIREWALL_NAME="allow-socks5-1080"
+PROXY_PORT="8888"
+FIREWALL_NAME="allow-socks5-8888"
 NETWORK_NAME="socks-vpc"
 : "${BILLING_ACCOUNT_ID:=}"   # có thể để trống; script sẽ tự dò
 
